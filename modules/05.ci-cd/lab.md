@@ -57,9 +57,11 @@ Create a pull request to the `master` branch:
 
 > Select *For Hobby Projects* in Instances Types
 
-> Enter root directory : user-api
+> Enter root directory : modules/04.continuous-testing/lab
 
-> Start Command : npm start
+> Build Command : `npm build`
+
+> Start Command : `npm start`
 
 > Redis service on Render requires a credit card to be added to your account. Is not a free plan. For this course you will need to just host your WebApp on Render on not the redis service.
 
