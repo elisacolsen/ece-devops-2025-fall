@@ -57,7 +57,7 @@ Create a pull request to the `master` branch:
 
 > Select *For Hobby Projects* in Instances Types
 
-> Enter root directory : modules/04.continuous-testing/lab
+> Enter root directory : modules/04.continuous-testing/lab-corrections
 
 > Build Command : `npm build`
 
