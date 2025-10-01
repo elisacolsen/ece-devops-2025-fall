@@ -6,7 +6,7 @@ Continuous Integration & Continuous Delivery (Deployment) (CI/CD)
 ## Objectives
 
 1. Part 1. Continuous Integration with GitHub Actions
-2. Part 2. Continuous Delivery (Deployment) with Heroku
+2. Part 2. Continuous Delivery (Deployment) with Render
 
 ## Before starting
 
