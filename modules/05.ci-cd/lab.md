@@ -6,7 +6,7 @@ Continuous Integration & Continuous Delivery (Deployment) (CI/CD)
 ## Objectives
 
 1. Part 1. Continuous Integration with GitHub Actions
-2. Part 2. Continuous Delivery (Deployment) with Heroku
+2. Part 2. Continuous Delivery (Deployment) with Render
 
 ## Before starting
 
@@ -57,9 +57,11 @@ Create a pull request to the `master` branch:
 
 > Select *For Hobby Projects* in Instances Types
 
-> Enter root directory : user-api
+> Enter root directory : modules/04.continuous-testing/lab-corrections
 
-> Start Command : npm start
+> Build Command : `npm build`
+
+> Start Command : `npm start`
 
 > Redis service on Render requires a credit card to be added to your account. Is not a free plan. For this course you will need to just host your WebApp on Render on not the redis service.
 
